@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LocadoraDeVeiculo/1.0.0": {
+        "runtime": {
+          "LocadoraDeVeiculo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LocadoraDeVeiculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

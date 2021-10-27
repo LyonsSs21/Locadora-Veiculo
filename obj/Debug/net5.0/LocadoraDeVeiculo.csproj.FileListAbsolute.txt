@@ -1,0 +1,16 @@
+D:\Nova pasta\LocadoraDeVeiculo\obj\Debug\net5.0\LocadoraDeVeiculo.csproj.AssemblyReference.cache
+D:\Nova pasta\LocadoraDeVeiculo\obj\Debug\net5.0\LocadoraDeVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta\LocadoraDeVeiculo\obj\Debug\net5.0\LocadoraDeVeiculo.AssemblyInfoInputs.cache
+D:\Nova pasta\LocadoraDeVeiculo\obj\Debug\net5.0\LocadoraDeVeiculo.AssemblyInfo.cs
+D:\Nova pasta\LocadoraDeVeiculo\obj\Debug\net5.0\LocadoraDeVeiculo.csproj.CoreCompileInputs.cache
+D:\Nova pasta\LocadoraDeVeiculo\bin\Debug\net5.0\LocadoraDeVeiculo.exe
+D:\Nova pasta\LocadoraDeVeiculo\bin\Debug\net5.0\LocadoraDeVeiculo.deps.json
+D:\Nova pasta\LocadoraDeVeiculo\bin\Debug\net5.0\LocadoraDeVeiculo.runtimeconfig.json
+D:\Nova pasta\LocadoraDeVeiculo\bin\Debug\net5.0\LocadoraDeVeiculo.runtimeconfig.dev.json
+D:\Nova pasta\LocadoraDeVeiculo\bin\Debug\net5.0\LocadoraDeVeiculo.dll
+D:\Nova pasta\LocadoraDeVeiculo\bin\Debug\net5.0\ref\LocadoraDeVeiculo.dll
+D:\Nova pasta\LocadoraDeVeiculo\bin\Debug\net5.0\LocadoraDeVeiculo.pdb
+D:\Nova pasta\LocadoraDeVeiculo\obj\Debug\net5.0\LocadoraDeVeiculo.dll
+D:\Nova pasta\LocadoraDeVeiculo\obj\Debug\net5.0\ref\LocadoraDeVeiculo.dll
+D:\Nova pasta\LocadoraDeVeiculo\obj\Debug\net5.0\LocadoraDeVeiculo.pdb
+D:\Nova pasta\LocadoraDeVeiculo\obj\Debug\net5.0\LocadoraDeVeiculo.genruntimeconfig.cache
